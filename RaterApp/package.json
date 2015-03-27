@@ -6,6 +6,11 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.1.0"
+    "react-native": "^0.1.0",
+    "react-native-button": "^1.0.0",
+    "xhr": "^2.0.1",
+    "request": "^2.54.0",
+    "lodash": "^3.6.0",
+    "require-dir": "^0.3.0"
   }
 }
